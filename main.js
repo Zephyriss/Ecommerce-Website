@@ -13,12 +13,6 @@ darkmode.addEventListener('click', function(){
   content.classList.toggle('night')
 })
 
-var typed = new Typed('#multitext', {
-  strings: ['....','laptop', 'graphics card.', 'Smartphone', 'Cpu', 'GPU', 'TV'],
-  typeSpeed: 100,
-  loop : true
-});
-
 for (let i = 0; i < thumbnail.length; i++) {
 
   thumbnail[i].addEventListener('mouseover', function() {
@@ -31,6 +25,14 @@ for (let i = 0; i < thumbnail.length; i++) {
   })
   
 }
+
+var typed = new Typed('#multitext', {
+  strings: ['....','laptop', 'graphics card.', 'Smartphone', 'Cpu', 'GPU', 'TV'],
+  typeSpeed: 100,
+  loop : true
+});
+
+
 
 let buttonLeft = document.getElementById('leftslide')
 let buttonRight = document.getElementById('rightslide')

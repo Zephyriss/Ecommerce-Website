@@ -199,7 +199,7 @@ body.night{
 }
 
 #hero{
-  background-image: url(images/Banners/nvidia-5264921_1920.jpg);
+  background-image: url(Banners/nvidia-5264921_1920.jpg);
   height: 90vh;
   width: 100%;
   background-size: cover;
@@ -374,7 +374,7 @@ body.night{
   justify-content: center;
   align-items: center;
   text-align: center;
-  background-image: url("images/Banners/98db8c2eb31e19496804414a2cdeb0f0.jpg");
+  background-image: url("Banners/98db8c2eb31e19496804414a2cdeb0f0.jpg");
   width: 100%;
   height: 40vh;
   background-size: cover;
@@ -414,7 +414,7 @@ body.night{
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
-  background-image: url(images/Banners/7f73314b76da0e60d3e3d543015c5aa9.jpg);
+  background-image: url(Banners/7f73314b76da0e60d3e3d543015c5aa9.jpg);
   width: 45%;
   height: 50vh;
   background-size: cover;
@@ -424,7 +424,7 @@ body.night{
 }
 
 #up-banner .banner-box2{
-  background-image: url(images/Banners/bfd1a7ba23c100fa3659a27bcc615aa2.jpg);
+  background-image: url(Banners/4f54ae7b050f64a5e39275f005515340.jpg);
 }
 #up-banner .banner-box:hover{
   transform: translateY(-10px);
@@ -466,7 +466,7 @@ body.night{
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
-  background-image: url("images/Banners/2c4151c5fb619b9ef49ba5939ec4b880.jpg");
+  background-image: url("Banners/30469c3ea8e182ccd8ad9e04538b6245.jpg");
   width: 30%;
   height: 30vh;
   background-size: cover;
@@ -477,11 +477,11 @@ body.night{
 }
 
 #banner3 .bannerbox2{
-  background-image:url("images/Banners/e536e7d0e57524ea09a570f4f9164276.jpg") ;
+  background-image:url("Banners/d8e5326b66f5e851da19dd38c02a6389.jpg") ;
 }
 
 #banner3 .bannerbox3{
-  background-image: url(images/Banners/d4043c486cc1066fd4663e0ab0bc0cd3.jpg);
+  background-image: url(Banners/d4043c486cc1066fd4663e0ab0bc0cd3.jpg);
 }
 
 #banner3 .banner-box:hover{
@@ -505,7 +505,7 @@ body.night{
   justify-content:space-between ;
   flex-wrap: wrap;
   align-items: center;
-  background-image: url(images/b14.png);
+  background-image: url(b14.png);
   background-repeat: no-repeat;
   background-position: 20% 30%;
   background-color: #041e42;
@@ -783,14 +783,9 @@ font-size:26px ;
   color: #fff;
 }
 
-#page-header.about-header{
-  background-image: url("images/Banners/images (8).jpeg");
-  width: 100%;
-  height: 40vh;
-}
 
 #page-header.contact-header{
-  background-image: url("images/Banners/bfd1a7ba23c100fa3659a27bcc615aa2.jpg");
+  background-image: url("Banners/5b79c11ed4467355105a80e9d9e31735.jpg");
   width: 100%;
   height: 40vh;
   background-size: cover;
@@ -916,7 +911,7 @@ font-size:26px ;
 }
 
 #page-header.cart-header{
-  background-image: url("images/Banners/d2fbc6f541b7bb955da44dddb36f9c60.jpg");
+  background-image: url("Banners/d2fbc6f541b7bb955da44dddb36f9c60.jpg");
   width: 100%;
   height: 40vh;
   background-size: cover;
